@@ -1,0 +1,9 @@
+a=10
+b=12
+c=24
+print(a+b)
+print(a%c)
+print(b-c)
+print(c**a)
+print(a/c)
+print(b*c)
